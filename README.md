@@ -1,1 +1,1 @@
-# global-weather-api
+# global-weather-apiJava Spring Boot weather API project.
